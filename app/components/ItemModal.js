@@ -28,7 +28,7 @@ function ItemModalComponent({ open, item, onClose }) {
       <div className="relative w-full max-w-lg rounded-2xl bg-white dark:bg-zinc-950 shadow-xl border border-zinc-200/60 dark:border-zinc-800/60 overflow-hidden">
         <div className="flex items-center justify-between px-5 py-4 border-b border-zinc-200/60 dark:border-zinc-800/60">
           <h3 className="text-lg font-semibold">รายละเอียดไอเท็ม</h3>
-          <button onClick={onClose} className="rounded-md px-2 py-1 text-zinc-600 hover:bg-zinc-100 dark:text-zinc-300 dark:hover:bg-zinc-900">✕</button>
+          <button onClick={onClose} className="rounded-md px-2 py-1 text-zinc-600 hover:bg-zinc-100 dark:text-zinc-300 dark:hover:bg-zinc-900 cursor-pointer">✕</button>
         </div>
         <div className="p-5 flex gap-4">
           <div className="relative w-24 h-24 shrink-0 rounded-lg overflow-hidden bg-white dark:bg-zinc-900 border border-zinc-200/60 dark:border-zinc-800/60">
