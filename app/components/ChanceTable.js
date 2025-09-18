@@ -14,7 +14,7 @@ function ChanceTableComponent({ items }) {
         <thead className="bg-zinc-100/80 dark:bg-zinc-800/60 text-zinc-700 dark:text-zinc-200">
           <tr>
             <th className="text-left px-4 py-2 font-semibold">Item / Type</th>
-            <th className="text-left px-4 py-2 font-semibold">Count</th>
+            <th className="text-left px-4 py-2 font-semibold">จำนวน</th>
             <th className="text-right px-4 py-2 font-semibold">โอกาส (%)</th>
           </tr>
         </thead>

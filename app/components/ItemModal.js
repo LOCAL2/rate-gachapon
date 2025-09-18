@@ -43,7 +43,7 @@ function ItemModalComponent({ open, item, onClose }) {
             </div>
             <div className="text-sm text-zinc-600 dark:text-zinc-400">จำนวน: {formattedRange} {unitLabel}</div>
             <div className="flex items-center gap-3">
-              <div className="text-sm text-zinc-600 dark:text-zinc-400">Chance:</div>
+              <div className="text-sm text-zinc-600 dark:text-zinc-400">โอกาส:</div>
               <span className="inline-flex items-center rounded-full bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 px-3 py-1 text-sm font-semibold">{chance}%</span>
             </div>
           </div>
