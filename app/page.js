@@ -16,7 +16,9 @@ export default function Home() {
         <header className="mb-10">
           <div className="flex items-center gap-3">
             <div>
-              <h1 className="text-3xl sm:text-4xl font-bold tracking-tight">Gachapon Rates Star2.0</h1>
+              <h1 className="text-3xl sm:text-4xl font-bold tracking-tight">
+                Gachapon Rates <span className="text-purple-600 dark:text-purple-400">Star 2.0</span> 
+              </h1>
             <div className="mt-2 text-xs text-zinc-400 select-none">
               Hash checksum <span className="font-mono text-emerald-600 dark:text-emerald-400">e3b0c44298fc1c149afbf4c8996fb924</span>
             </div>
