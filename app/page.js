@@ -23,7 +23,7 @@ export default function Home() {
               Hash checksum <span className="font-mono text-emerald-600 dark:text-emerald-400">e3b0c44298fc1c149afbf4c8996fb924</span>
             </div>
             <div className="mt-2 text-sm font-bold text-emerald-700 dark:text-emerald-300 bg-emerald-50 dark:bg-emerald-900/40 rounded-lg px-4 py-2 shadow-sm border border-emerald-200 dark:border-emerald-800 inline-block">
-              ข้อมูลนี้อัปเดตล่าสุดเมื่อวันที่ <span className="underline decoration-emerald-400 underline-offset-2">วันพฤหัสบดี ที่ 18 กันยายน 2568</span> <span className="text-emerald-900 dark:text-emerald-200 font-normal"></span>
+              ข้อมูลนี้อัปเดตล่าสุดเมื่อ <span className="underline decoration-emerald-400 underline-offset-2">วันพฤหัสบดี ที่ 18 กันยายน 2568</span> <span className="text-emerald-900 dark:text-emerald-200 font-normal"></span>
             </div>
             </div>
           </div>
